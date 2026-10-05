@@ -1,0 +1,9 @@
+Apex-Backend/target/
+TEST/target/
+Apex-Front/node_modules/
+Apex-Front/dist/
+Apex-Front/.angular/
+.claude/
+**/.env
+*.iml
+.idea/
