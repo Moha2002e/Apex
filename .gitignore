@@ -7,3 +7,9 @@ Apex-Front/.angular/
 **/.env
 *.iml
 .idea/
+.git-ancien/
+.env
+node_modules/
+target/
+dist/
+.angular/
